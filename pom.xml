@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.cinestart</groupId>
-    <artifactId>week0</artifactId>
+    <artifactId>PC1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>week0</name>
-    <description>week0</description>
+    <name>PC1</name>
+    <description>PC1</description>
     <url/>
     <licenses>
         <license/>

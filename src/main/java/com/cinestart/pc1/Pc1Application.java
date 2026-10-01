@@ -1,13 +1,13 @@
-package com.cinestart.week0;
+package com.cinestart.pc1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Week0Application {
+public class Pc1Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Week0Application.class, args);
+        SpringApplication.run(Pc1Application.class, args);
     }
 
 }

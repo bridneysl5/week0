@@ -1,10 +1,10 @@
-package com.cinestart.week0;
+package com.cinestart.pc1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Week0ApplicationTests {
+class Pc1ApplicationTests {
 
     @Test
     void contextLoads() {
